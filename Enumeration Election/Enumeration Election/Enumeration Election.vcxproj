@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{1B36AEB1-83B3-4546-B8DD-5948CC6A8B54}</ProjectGuid>
+    <ProjectGuid>{34015535-7DE1-47C7-AE40-956DEDA88BAB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>NewDeleteMemoryAllocation</RootNamespace>
+    <RootNamespace>EnumerationElection</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
