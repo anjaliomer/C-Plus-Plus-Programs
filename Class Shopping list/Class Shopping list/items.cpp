@@ -4,10 +4,7 @@
 
 using namespace std;
 
-void items::CNT(void)
-{
-	count = 0;
-}
+
 
 void items::getItem(void)
 {

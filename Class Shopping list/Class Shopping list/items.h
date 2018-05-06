@@ -14,3 +14,8 @@ public:
 	void removeItem(void);
 	void displayItem(void);
 };
+
+inline void items::CNT(void)
+{
+	count = 0;
+}
