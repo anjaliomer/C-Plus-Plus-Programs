@@ -1,15 +1,16 @@
 class item
 {
+	int code;
 	static int count;
-	int number;
 
 public:
 
-	void getData(int a)
+	void setCode(void)
 	{
-		number = a;
-		count++;
+		code = ++count;
 	}
 
-	void getCount(void);
+	void showCode(void);
+
+	static void showCount(void);
 };

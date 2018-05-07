@@ -4,10 +4,15 @@
 
 using namespace std;
 
-
 int item::count;
 
-void item::getCount(void)
+void item::showCode(void)
+{
+	cout << "Object Code: " << code << endl;
+}
+
+void item::showCount(void)
 {
 	cout << "Count: " << count << endl;
 }
+
