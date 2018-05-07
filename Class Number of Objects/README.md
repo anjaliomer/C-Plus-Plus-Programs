@@ -1,1 +1,1 @@
-A program to showcase the use of ststic data members within a class.
+A program to showcase the use of static data members within a class.
