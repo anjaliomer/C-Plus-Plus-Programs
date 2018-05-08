@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operator Overloading Input Output Func", "Operator Overloading Input Output Func\Operator Overloading Input Output Func.vcxproj", "{F6142639-C4E9-42C0-B826-C5E201A63459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6142639-C4E9-42C0-B826-C5E201A63459}.Debug|x64.ActiveCfg = Debug|x64
+		{F6142639-C4E9-42C0-B826-C5E201A63459}.Debug|x64.Build.0 = Debug|x64
+		{F6142639-C4E9-42C0-B826-C5E201A63459}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6142639-C4E9-42C0-B826-C5E201A63459}.Debug|x86.Build.0 = Debug|Win32
+		{F6142639-C4E9-42C0-B826-C5E201A63459}.Release|x64.ActiveCfg = Release|x64
+		{F6142639-C4E9-42C0-B826-C5E201A63459}.Release|x64.Build.0 = Release|x64
+		{F6142639-C4E9-42C0-B826-C5E201A63459}.Release|x86.ActiveCfg = Release|Win32
+		{F6142639-C4E9-42C0-B826-C5E201A63459}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {403AD038-C8F6-4590-9E67-7020BE6BE26E}
+	EndGlobalSection
+EndGlobal
