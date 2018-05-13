@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointers to Derived Objects", "Pointers to Derived Objects\Pointers to Derived Objects.vcxproj", "{523A2C03-744E-4D68-A459-B91AF0ECB887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523A2C03-744E-4D68-A459-B91AF0ECB887}.Debug|x64.ActiveCfg = Debug|x64
+		{523A2C03-744E-4D68-A459-B91AF0ECB887}.Debug|x64.Build.0 = Debug|x64
+		{523A2C03-744E-4D68-A459-B91AF0ECB887}.Debug|x86.ActiveCfg = Debug|Win32
+		{523A2C03-744E-4D68-A459-B91AF0ECB887}.Debug|x86.Build.0 = Debug|Win32
+		{523A2C03-744E-4D68-A459-B91AF0ECB887}.Release|x64.ActiveCfg = Release|x64
+		{523A2C03-744E-4D68-A459-B91AF0ECB887}.Release|x64.Build.0 = Release|x64
+		{523A2C03-744E-4D68-A459-B91AF0ECB887}.Release|x86.ActiveCfg = Release|Win32
+		{523A2C03-744E-4D68-A459-B91AF0ECB887}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C60CBF-7397-4D7C-A0AA-5B1570191335}
+	EndGlobalSection
+EndGlobal
